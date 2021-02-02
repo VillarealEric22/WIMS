@@ -1,0 +1,57 @@
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\bin\Debug\BCInventorySys.exe.config
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\bin\Debug\BCInventorySys.exe
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\bin\Debug\BCInventorySys.pdb
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.csprojAssemblyReference.cache
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.AdministratorView.resources
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.DefaultView.resources
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.Login.resources
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.Properties.Resources.resources
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.csproj.GenerateResource.cache
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.exe
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.pdb
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.newCategory.resources
+C:\Users\EeJaay\Documents\Visual Studio 2019\Projects\BCInventorySys\obj\Debug\BCInventorySys.Form1.resources
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\bin\Debug\BCInventorySys.exe.config
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\bin\Debug\BCInventorySys.exe
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\bin\Debug\BCInventorySys.pdb
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.csprojAssemblyReference.cache
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.AdministratorView.resources
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.DefaultView.resources
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.Form1.resources
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.newCategory.resources
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.Login.resources
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.Properties.Resources.resources
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.csproj.GenerateResource.cache
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.csproj.CoreCompileInputs.cache
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.exe
+C:\Users\EJ\Desktop\SCHOOL\Visual Studio proj\BCInventorySys\obj\Debug\BCInventorySys.pdb
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\bin\Debug\BCInventorySys.exe.config
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\bin\Debug\BCInventorySys.exe
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\bin\Debug\BCInventorySys.pdb
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.csprojAssemblyReference.cache
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.AdministratorView.resources
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.DefaultView.resources
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.ProductSearch.resources
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.newCategory.resources
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.Login.resources
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.Properties.Resources.resources
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.csproj.GenerateResource.cache
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.csproj.CoreCompileInputs.cache
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.exe
+C:\Users\EJ\Desktop\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.pdb
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\bin\Debug\BCInventorySys.exe.config
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\bin\Debug\BCInventorySys.exe
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\bin\Debug\BCInventorySys.pdb
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.csprojAssemblyReference.cache
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.AdministratorView.resources
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.DefaultView.resources
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.ProductSearch.resources
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.newCategory.resources
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.Login.resources
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.Properties.Resources.resources
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.csproj.GenerateResource.cache
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.csproj.CoreCompileInputs.cache
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.exe
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.pdb
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.criticalAlert.resources
+C:\Users\EJ\Desktop\Visual Studio Proj\Baker's Craft WHSE Inventory System\BCInventorySys\obj\Debug\BCInventorySys.TransferArchives.resources
